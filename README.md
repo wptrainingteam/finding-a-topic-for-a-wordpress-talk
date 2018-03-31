@@ -179,11 +179,11 @@ A question for you: Why do you want to speak? After people have given their reas
 8. It’s fun!
 9. Rewarding, feeling of accomplishment
 10. Career building
-11. Be a role model for <my specific group>
+11. Be a role model for {my specific group}
 
 ### Talk Formats
 
-Now that we've talked about why we are holding this workshop for <specific group> [or: what kind of things we're looking for], myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks. 
+Now that we've talked about why we are holding this workshop for {specific group} [or: what kind of things we're looking for], myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks. 
 
 A lot of talks are big "how to" brain dump sessions. "How to make a plugin" might be someone walking through how to make it, maybe even live coding, and then at the end, there are questions. 
 
