@@ -6,24 +6,24 @@ We are keeping track of how many WP groups run the workshops this year. If you'r
 
 _[If you are presenting this to a specific group, such as people who identify as women, optional sections to add are indicated in [square brackets].]_ 
 
-This is a workshop for <specific group> <or: folks> who are thinking about speaking at WordPress events, such as WordPress Meetup and WordCamp. During this hands-on session, we’ll look at what has stopped you from speaking in the past — and explore how to move past your fears. We will discuss some common myths about public speaking, different talk formats, and we will focus on finding your areas of expertise (yes, you have areas of expertise!). We will brainstorm topics you can talk about at a WordCamp or other event. 
+This is a workshop for {specific group} {or: folks} who are thinking about speaking at WordPress events, such as WordPress Meetup and WordCamp. During this hands-on session, we’ll look at what has stopped you from speaking in the past — and explore how to move past your fears. We will discuss some common myths about public speaking, different talk formats, and we will focus on finding your areas of expertise (yes, you have areas of expertise!). We will brainstorm topics you can talk about at a WordCamp or other event. 
 
 Each participant will come out of the workshop with a WordCamp or meetup talk idea — and more confidence to submit it. 
 
 **_***You do NOT have to have any experience in public speaking. This workshop is for all levels of experience._** **This workshop is for you if:**
 
-* [You identify as <specific group>]
+* [You identify as {specific group}]
 * You’ve thought about speaking at Meetup or WordCamp but haven’t been able to think of a topic
 * You think you don't know anything worth speaking about
 
 **This workshop is NOT for you if:**
 
-* [You identify as <not specific group>]
-* [You don’t think it matters that there are very few <specific group> speakers at WordPress events]
+* [You identify as {not specific group}]
+* [You don’t think it matters that there are very few {specific group} speakers at WordPress events]
 
 **Agenda**
 
-* Why speak at WordPress events? [Why do we need more <specific group> speaking at them?]
+* Why speak at WordPress events? [Why do we need more {specific group} speaking at them?]
 * Dispelling some myths about speakers/speaking
 * Coming up with topics and choosing one
 * Practice giving a short talk
@@ -50,13 +50,13 @@ Each participant will come out of the workshop with a WordCamp or meetup talk id
 ## Assets
 
 * [Workbook (link to Google doc)](https://drive.google.com/open?id=1SINx2PxKA1fiHOXSf_c_BVTFXRxoajFA) _(You may download and edit as needed.)_
-* [Slides (link to Google doc)](https://drive.google.com/open?id=1I-BlIHsvP_zJgc6AAIOBt0xUgtUUI7Q3X_VnUSNoxH4) __(All of the Speaker Training lessons are included. You will start at the top and when you get to a_ _"Which section are you running next?" _slide, choose the next lesson you are doing this day. You will definitely want to download and make some edits as there are some instructions for you in the slides themselves.)_
+* [Slides (link to Google doc)](https://drive.google.com/open?id=1I-BlIHsvP_zJgc6AAIOBt0xUgtUUI7Q3X_VnUSNoxH4) _(All of the Speaker Training lessons are included. You will start at the top and when you get to a "Which section are you running next?" slide, choose the next lesson you are doing this day. You will definitely want to download and make some edits as there are some instructions for you in the slides themselves.)_
 * A large device that can show a countdown timer for the timed speaking presentations, such as an iPad
 * Sign up sheet, clipboard, pen
 
 ## Screening Questions
 
-* [Do you identify as <specific group>?]
+* [Do you identify as {specific group}?]
 
 ## Teacher Notes
 
@@ -70,7 +70,7 @@ Each participant will come out of the workshop with a WordCamp or meetup talk id
 * The note about getting up and moving around whenever they want to is for accessibility for those who get antsy in their bodies.
 * [If holding the group for women: Don’t hold it at 9pm at night. Offer childcare if you can.]
 * [If you’re doing this for diversity purposes, have a person from that specific group lead the talk. Watch language, such as gender pronouns and transgender terminology.]
-* [ If you are running an event for a specific group, here are notes on dos and don’ts you will want to read: [https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/](https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/) ]
+* [If you are running an event for a specific group, here are notes on dos and don’ts you will want to read: [https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/](https://make.wordpress.org/community/2014/09/12/how-to-run-a-minority-only-event/) ]
 
 ## Workshop
 
@@ -90,7 +90,7 @@ The agenda that we are going to cover today is:
 * Dispelling The Myths of Speakers
 * Why Do You Want To Speak?
 * Talk Formats
-* Big BrainDump
+* Big Brain Dump
 * Narrowing Your Topic Selection
 * Refining Your Chosen Topic
 * Present Your Topic
@@ -121,18 +121,18 @@ Let's all introduce ourselves. Going around the circle, each person say:
 * What is your speaking experience, if any?
 * What you want out of the workshop
 
-### [ Why are we holding a workshop for <specific group>
+### Why are we holding a workshop for {specific group}
 
-There are a few reasons that we want to hold this workshop for <specific group> today:
+There are a few reasons that we want to hold this workshop for {specific group} today:
 
-1. A disproportionately large number of the speakers at WordPress meetups and WordCamps (and tech events in general) are one kind of person. That means that the speakers do not represent everyone sitting in the audience. <Specific group> may, therefore feel like they don't belong there. But there are many <specific group> with a wide range of knowledge to share and everyone can feel included.
+1. A disproportionately large number of the speakers at WordPress meetups and WordCamps (and tech events in general) are one kind of person. That means that the speakers do not represent everyone sitting in the audience. {Specific group} may, therefore feel like they don't belong there. But there are many {specific group} with a wide range of knowledge to share and everyone can feel included.
 2. WordPress is amazing in that it is open source and so all sorts of people use it. We want a more fair representation of the users in the people who are speaking.
-3. One of the ways in which WordPress is being shaped is by the people who speak about it publicly. Many <specific group>, by nature of having had different life experiences, would approach problems differently. Just as how a developer's point of view is different from a user's point of view, so are our viewpoints vs the standard speaker. <Specific group> have experiences that aren't necessarily being shared right now.
+3. One of the ways in which WordPress is being shaped is by the people who speak about it publicly. Many {specific group}, by nature of having had different life experiences, would approach problems differently. Just as how a developer's point of view is different from a user's point of view, so are our viewpoints vs the standard speaker. {Specific group} have experiences that aren't necessarily being shared right now.
 4. By bringing in more diverse people, there's a better chance of bringing in folks who are straddling several roles and thus creating unique things with unique perspectives. Power users who use it in interesting ways, front-end developers, business people who use plugins to make specific kinds of sites, typographers who use WordPress to do crazy things with typography.... People to talk about running a business in WordPress, how developers can communicate with designers, different things you can do with WordPress...... etc. ]
 
 ### What We Are Looking For
 
-* If you are giving this workshop to recruit speakers for a particular WordCamp or meetup, this is a good time to explain what you are looking for if you need speakers to speak on particular subjects or to particular audiences.
+If you are giving this workshop to recruit speakers for a particular WordCamp or meetup, this is a good time to explain what you are looking for if you need speakers to speak on particular subjects or to particular audiences.
 
 ### Dispelling The Myths (What We Think A Speaker Is vs What They Actually Are)
 
@@ -140,7 +140,7 @@ Everyone has their own reasons for not speaking in public, especially at tech ev
 
 #### **Myth 1: I’m not an expert!** 
 
-That’s okay, you don’t have to be an expert! Everyone has a different idea of what “expert” means. No one knows everything, and everyone has something to learn. You just need to know more about your topic than your audience knows. You can find a topic where you have knowledge that your audience does not. There are things you do with WordPress all the time that other people do not do with WordPress all the time – that makes you an expert in their eyes. Even if your audience has knowledge about the same topic, they will not frame that knowledge the same way – they will still have something to learn from you. There is a saying, "In the land of the blind, the one-eyed person is king" [or queen]. As long as you know a little bit more than many of the people in your audience, that's all you need. You are probably more of an expert than you think you are. A lot of us suffer from Imposter Syndrome. This psychological phenomenon where you feel like you are an imposter, you think you don’t really have the knowledge or skills to be here, but you have managed to fool everyone and soon they’ll find out. Imposter syndrome is really common – you aren’t alone. [A lot of us have imposter syndrome because we don't see people like us presented as experts. Many people in <our specific group> set a much higher bar for “expert” knowledge than other people do.] Many communities have surveyed their members to ask what kind of information they want to learn at meetups and WordCamps, and most people request beginner topics. Remember that there are people out there who know nothing about any of this stuff, and they want to know more! If you have used WordPress before, you have knowledge that other people want you to share. One area where you are always an expert is your own experience. Case studies make great talks – talk about how you did something, how you learned something, how you overcame an obstacle, the process you went through to create something or to solve a problem. These kinds of talks are great because they are unique – not just the same information that anyone can find in an online tutorial. These topics help everyone overcome the “I’m not an expert” problem – you’re a normal person sharing a normal experience, and that’s valuable, so people will come to value their own experience and expertise. So you might not feel like an expert, but you are! If you care about your topic, that will shine through and that’s what’s important.
+That’s okay, you don’t have to be an expert! Everyone has a different idea of what “expert” means. No one knows everything, and everyone has something to learn. You just need to know more about your topic than your audience knows. You can find a topic where you have knowledge that your audience does not. There are things you do with WordPress all the time that other people do not do with WordPress all the time – that makes you an expert in their eyes. Even if your audience has knowledge about the same topic, they will not frame that knowledge the same way – they will still have something to learn from you. There is a saying, "In the land of the blind, the one-eyed person is king" [or queen]. As long as you know a little bit more than many of the people in your audience, that's all you need. You are probably more of an expert than you think you are. A lot of us suffer from Imposter Syndrome. This psychological phenomenon where you feel like you are an imposter, you think you don’t really have the knowledge or skills to be here, but you have managed to fool everyone and soon they’ll find out. Imposter syndrome is really common – you aren’t alone. [A lot of us have imposter syndrome because we don't see people like us presented as experts. Many people in {our specific group} set a much higher bar for “expert” knowledge than other people do.] Many communities have surveyed their members to ask what kind of information they want to learn at meetups and WordCamps, and most people request beginner topics. Remember that there are people out there who know nothing about any of this stuff, and they want to know more! If you have used WordPress before, you have knowledge that other people want you to share. One area where you are always an expert is your own experience. Case studies make great talks – talk about how you did something, how you learned something, how you overcame an obstacle, the process you went through to create something or to solve a problem. These kinds of talks are great because they are unique – not just the same information that anyone can find in an online tutorial. These topics help everyone overcome the “I’m not an expert” problem – you’re a normal person sharing a normal experience, and that’s valuable, so people will come to value their own experience and expertise. So you might not feel like an expert, but you are! If you care about your topic, that will shine through and that’s what’s important.
 
 #### **Myth 2: People will ask questions I can’t answer, and I’ll look like a fool.** 
 
@@ -183,7 +183,15 @@ A question for you: Why do you want to speak? After people have given their reas
 
 ### Talk Formats
 
-Now that we've talked about why we are holding this workshop for <specific group> [or: what kind of things we're looking for], myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks. A lot of talks are big "how to" brain dump sessions. "How to make a plugin" might be someone walking through how to make it, maybe even live coding, and then at the end, there are questions. WordCamp Central has found that this isn't necessarily a good way to impart information. People often walk away feeling overwhelmed and not remembering anything that they learned. There are other talk formats that promote story-based learning. Talking about how you learned something, for example, means other people can also learn how to learn. As well, different talk formats involving more people becomes more engaging. Here are some of the various formats:
+Now that we've talked about why we are holding this workshop for <specific group> [or: what kind of things we're looking for], myths about what it takes to be a speaker, and why you want to speak, let's start talking about the actual talks. 
+
+A lot of talks are big "how to" brain dump sessions. "How to make a plugin" might be someone walking through how to make it, maybe even live coding, and then at the end, there are questions. 
+
+WordCamp Central has found that this isn't necessarily a good way to impart information. People often walk away feeling overwhelmed and not remembering anything that they learned. 
+
+There are other talk formats that promote story-based learning. Talking about how you learned something, for example, means other people can also learn how to learn. As well, different talk formats involving more people becomes more engaging. 
+
+Here are some of the various formats:
 
 * **How To:** The standard way that tech talks happen
 * **Discussion:** You are the facilitator on a topic and the audience discusses it together
@@ -194,9 +202,23 @@ Now that we've talked about why we are holding this workshop for <specific group
 
 A talk can also be more than one person. Duo talks are really engaging.
 
-### Big BrainDump
+### Big Brain Dump
 
-_Split the room into groups of 4-5 people._ Now we are going to do exercises and you can ask for help in your groups. Please pull out your workbooks. The next few exercises will be found there. First we are going to help you answer the question, "I don't know what to talk about" or "I don't know enough about anything to give a talk." We are going to do a brainstorming exercise. Brainstorm as many topic ideas as you can in 15 minutes. We're not looking for "perfect" or even "good" ideas. The idea is just to get them out, good, bad, or ugly. See if you can get 30 or 40 ideas. Seriously, anything that comes to mind. You can write, draw, do mind-maps, list, any format you like. While you're summoning the idea gods or getting writers' block, or anywhere in between, we'll be prompting you with questions to generate more topics. Remember, it's always great to talk about what excites YOU - not what you think you should talk about. _(These prompts are only suggestions that you can adapt according to the group's traits and needs.)_
+_Split the room into groups of 4-5 people._ 
+
+Now we are going to do exercises and you can ask for help in your groups. 
+
+Please pull out your workbooks. The next few exercises will be found there. 
+
+First we are going to help you answer the question, "I don't know what to talk about" or "I don't know enough about anything to give a talk." 
+
+We are going to do a brainstorming exercise. Brainstorm as many topic ideas as you can in 15 minutes. We're not looking for "perfect" or even "good" ideas. The idea is just to get them out, good, bad, or ugly. See if you can get 30 or 40 ideas. Seriously, anything that comes to mind. 
+
+You can write, draw, do mind-maps, list, any format you like. While you're summoning the idea gods or getting writers' block, or anywhere in between, we'll be prompting you with questions to generate more topics. 
+
+Remember, it's always great to talk about what excites YOU - not what you think you should talk about. 
+
+_(These prompts are only suggestions that you can adapt according to the group's traits and needs.)_
 
 * What got you into WordPress?
 * What keeps you in it?
@@ -245,7 +267,11 @@ From this list, can you refine your topic? Is there something more specific on w
 
 ### Present Topic
 
-_(If you are running several speaker training lessons together, regroup the room into a circle. If it's only one module and this is the last exercise, change the seats into a presentation style format. Chairs all facing the same direction—to the front, where a person will stand to talk.)_ Now we are going to go around the circle (or go around the room) and give everyone the opportunity to say what topic they chose. If you'd rather not, you may say, "Pass." _Teacher Note: If someone seems really doubtful about their topic, ask the group if they would like to hear this topic, put up their hands.  If time allows, offer to let students talk for a minute or two about their topic._
+_(If you are running several speaker training lessons together, regroup the room into a circle. If it's only one module and this is the last exercise, change the seats into a presentation style format. Chairs all facing the same direction—to the front, where a person will stand to talk.)_ 
+
+Now we are going to go around the circle (or go around the room) and give everyone the opportunity to say what topic they chose. If you'd rather not, you may say, "Pass." 
+
+_Teacher Note: If someone seems really doubtful about their topic, ask the group if they would like to hear this topic, put up their hands.  If time allows, offer to let students talk for a minute or two about their topic._
 
 ### Sign Up
 
